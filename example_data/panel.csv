@@ -1,0 +1,20 @@
+Tube Number,Metal Tag,Target,Clean_Target,Antibody Clone,Stock Concentration,Final Concentration / Dilution,uL to add,full,ilastik,deepcell
+0,191Ir,Iridium,DNA1,Ir,,,,1,1,1
+0,193Ir,Iridium,DNA2,Ir,,,,1,1,1
+2101,141Pr,Alpha-smooth muscle actin,aSMA,1A4,500,4 ug/mL,0.8,1,0,
+2113,143Nd,Vimentin,Vim,D21H3,500,1 ug/mL,0.2,1,0,
+1914,147Sm,CD163,CD163,D1H2,500,0.25 ug/mL,0.05,1,1,2
+2079,148Nd,Pan-keratin,PanCK,C11,500,5 ug/mL,1,1,1,2
+2095,150Nd,PD_L1,PD_L1,SP142,500,2.5 ug/mL,0.5,1,0,
+2087,151Eu,CD31,CD31,Polyclonal,500,1 ug/mL,0.2,1,0,
+2088,155Gd,FOXP3,FOXP3,236A/E7,500,4 ug/mL,0.8,1,0,
+1893,156Gd,CD4,CD4,EPR6855,500,4 ug/mL,0.8,1,0,
+2089,158Gd,E-cadherin,Ecad,2.40E+11,500,4 ug/mL,0.8,1,1,2
+1651,159Tb,CD68,CD68,KP1,500,4 ug/mL,0.8,1,0,
+2081,161Dy,CD20,CD20,H1,500,4.5 ug/mL,0.9,1,1,2
+2096,162Dy,CD8a,CD8a,CD8/144B,500,5 ug/mL,1,1,1,2
+1890,165Ho,PD_1,PD_1,ERP4877(2),500,5 ug/mL,1,1,0,
+2114,167Er,Granzyme B,GZMB,EPR20129-217,500,4 ug/mL,0.8,1,0,
+1813,168Er,Ki-67,KI67,B56,500,4 ug/mL,0.8,1,0,
+2097,170Er,CD3,CD3,Polyclonal,500,4 ug/mL,0.8,1,1,2
+2115,173Yb,CD45RO,CD45RO,UCHL1,500,5 ug/mL,1,1,0,
