@@ -59,7 +59,7 @@ Rscript scripts/IMC.step1.annotateCell.R example_data/P0_histocat_outfile.csv ex
 Rscript scripts/IMC.step2.mixscore.R example_data/P0_histocat_outfile.csv 1Cellannotate/P0.sc.cellAnnotate.Rds 2Mixscore/ P0
 Rscript scripts/IMC.step3.identifyCN.R example_data/P0_histocat_outfile.csv 1Cellannotate/P0.sc.cellAnnotate.Rds 2Mixscore/P0.mixscore.csv example_data/panel.csv 3CellNeighborhood/ P0
 ```
-###Input File Description
+### Input File Description
 *_histocat_outfile.csv：histocat output cell intensity data
 panel.csv: panel data 
 *.sc.cellAnnotate.Rds: outputfile after running IMC.step1.annotateCell.R
