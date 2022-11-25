@@ -66,4 +66,4 @@ panel.csv: panel data
 *.mixscore.csv: outputfile after running IMC.step2.mixscore.R
 
 Note: SPIAT R package(https://bioconductor.org/packages/release/bioc/html/SPIAT.html) source code was download under the script/SPIAT-main/R 
-directory,this package was called on our script
+directory, this package was called on our script
