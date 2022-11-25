@@ -1,0 +1,2 @@
+Reference,Target,Number_of_reference_cells,Number_of_target_cells,Reference_target_interaction,Reference_reference_interaction,Mixing_score,Normalised_mixing_score,patientID,Type
+Immune,nonImmune,9484,2445,42446,200590,0.211605762999153,1.64143758733821,P0,Clustered
