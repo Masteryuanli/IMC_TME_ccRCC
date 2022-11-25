@@ -1,0 +1,14 @@
+Enriched	CN
+T Cell-CD8;Macrophage Cell Enriched	CN_1
+Macrophage Cell Enriched	CN_2
+T Cell;T Cell-CD8 Enriched	CN_3
+T Cell Enriched	CN_4
+T Cell-CD8 Enriched	CN_5
+B Cell Enriched	CN_6
+T Cell-CD8;Macrophage Cell-CD163 Enriched	CN_7
+T Cell;Macrophage Cell Enriched	CN_8
+Macrophage Cell-CD163 Enriched	CN_9
+Macrophage Cell;Macrophage Cell-CD163 Enriched	CN_10
+T Cell;Macrophage Cell-CD163 Enriched	CN_11
+B Cell;T Cell Enriched	CN_12
+B Cell;T Cell-CD8 Enriched	CN_13
