@@ -56,7 +56,7 @@ p1<-ggplot(mixscore.df,aes(x=Cell.X.Position,y=Cell.Y.Position,colour=Cell.Type 
           axis.text=element_text(size = 10,face = "bold"),axis.title = element_text(size = 10,face = "bold"))+
     scale_color_manual(values = c("#FF0000","#DDDDDD"),labels=c("B;T;Macrophage","Other"))+scale_y_reverse()
 p1
-ggsave(paste0(outdire,"/",prefix,".immume-nonimmune.png"),plot = p1,width = 6,height = 4)
+ggsave(paste0(outdire,"/",prefix,".immume-nonimmune-SpatialDotplot.png"),plot = p1,width = 6,height = 4)
 mixscore.final$Type[mixscore.final$Mixing_score<=1.4]<-"Clustered"
 write.table(mixscore.final,paste0(outdire,"/",prefix,".mixscore.csv"),col.names = T,row.names = F,sep = ",",quote = F)
 
