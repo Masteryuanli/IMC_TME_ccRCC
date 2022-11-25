@@ -1,4 +1,4 @@
-#Spatial heterogeneity of tumor microenvironment influences the prognosis and therapeutic response of clear cell renal cell carcinoma patients
+# Spatial heterogeneity of tumor microenvironment influences the prognosis and therapeutic response of clear cell renal cell carcinoma patients
 
 # Repo Contents
 - [R](./R): `R` package code.
