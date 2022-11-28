@@ -32,7 +32,7 @@ sourceDir <- function(path, trace = TRUE, ...) {
     options(op)
   }
 }
-sourceDir("/backup/niyl/Project/ZhangDW/IMC_Test/scripts/SPIAT-main/R/")
+sourceDir("R/SPIAT-main/R/")
 
 histocat.dt<-read.table(histocatfile,sep = ",",header = T,stringsAsFactors = F)
 myspatialData<-DataFrame(histocat.dt[,c("Orientation","X_position","Y_position")])
