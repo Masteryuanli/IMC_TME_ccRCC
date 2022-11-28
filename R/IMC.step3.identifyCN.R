@@ -42,7 +42,7 @@ sourceDir <- function(path, trace = TRUE, ...) {
     options(op)
   }
 }
-sourceDir("/backup/niyl/Project/ZhangDW/IMC_Test/scripts/SPIAT-main/R/")
+sourceDir("R/SPIAT-main/R/")
 splitlabel<-function(x){
   unlist(strsplit(x,split = "_"))[c(4)]
 }
